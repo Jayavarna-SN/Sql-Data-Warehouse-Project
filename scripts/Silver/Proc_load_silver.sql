@@ -180,7 +180,7 @@ Begin
     gen)
 
     select
-    case when cid like 'nas%' then substring (cid,5,len(cid))
+    case when cid like 'nas%' then substring (cid,4,len(cid))
     else cid
     end as cid,
     case when bdate < '1924-01-01' then null 
