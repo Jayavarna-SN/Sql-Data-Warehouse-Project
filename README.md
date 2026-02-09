@@ -26,7 +26,7 @@ This project follows the Medallion Architecture with three layers:
 --
 
 
-## 📖 What I Learned From This Project**
+## 📖 What I Learned From This Project
 
 
 -> How to design a modern data warehouse
