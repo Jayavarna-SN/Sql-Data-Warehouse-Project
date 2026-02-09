@@ -41,7 +41,7 @@ This project follows the Medallion Architecture with three layers:
 
 --
 
-## 🎯 Skills Demonstrated**
+## 🎯 Skills Demonstrated
 
 
 This project helped me build practical skills in:
